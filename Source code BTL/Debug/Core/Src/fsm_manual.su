@@ -1,0 +1,2 @@
+fsm_manual.c:15:13:lcd_show_manual_mode	16	static
+fsm_manual.c:28:6:fsm_manual	8	static

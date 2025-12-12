@@ -1,0 +1,7 @@
+button.c:24:5:isApplyPressed	4	static
+button.c:31:5:isModePressed	4	static
+button.c:38:5:isTimeUpPressed	4	static
+button.c:45:5:isTimeDownPressed	4	static
+button.c:53:5:isButton1LongPressed	4	static
+button.c:61:6:subKeyProcess	4	static
+button.c:67:6:getKeyInput	16	static

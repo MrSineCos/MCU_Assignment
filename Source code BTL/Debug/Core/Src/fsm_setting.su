@@ -1,0 +1,2 @@
+fsm_setting.c:20:13:lcd_update_setting	40	static
+fsm_setting.c:40:6:fsm_setting	8	static

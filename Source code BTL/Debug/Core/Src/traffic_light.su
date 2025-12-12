@@ -1,0 +1,11 @@
+traffic_light.c:18:13:set_group_color	32	static
+traffic_light.c:26:13:set_axis1	24	static
+traffic_light.c:30:13:set_axis2	24	static
+traffic_light.c:34:6:INIT_LIGHT	8	static
+traffic_light.c:39:6:LIGHT_RED_GREEN	8	static
+traffic_light.c:44:6:LIGHT_RED_YELOW	8	static
+traffic_light.c:49:6:LIGHT_GREEN_RED	8	static
+traffic_light.c:54:6:LIGHT_YELOW_RED	8	static
+traffic_light.c:59:6:Toggle_red	16	static
+traffic_light.c:67:6:Toggle_yelow	16	static
+traffic_light.c:75:6:Toggle_green	16	static
